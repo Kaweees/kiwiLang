@@ -25,7 +25,7 @@ clean:
 # Run code quality tools
 test:
   echo "Running tests..."
-  ./target/release/kiwicpp_tests
+  ./target/release/kiwilang_tests
 
 # Format the project
 format:

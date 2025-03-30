@@ -19,12 +19,12 @@
 
 </div>
 
-<a href="https://github.com/Kaweees/KiwiCPP">
+<a href="https://github.com/Kaweees/kiwiLang">
   <img alt="C++ Logo" src="assets/img/cpp.svg" align="right" width="150">
 </a>
 
 <div align="left">
-  <h1><em><a href="https://github.com/Kaweees/KiwiCPP">~KiwiCPP</a></em></h1>
+  <h1><em><a href="https://github.com/Kaweees/kiwiLang">~kiwiLang</a></em></h1>
 </div>
 
 <!-- ABOUT THE PROJECT -->
@@ -34,8 +34,6 @@ A template for creating C++ header-only libraries accelerated with CUDA/Apple Me
 ### Built With
 
 [![C++][C++-shield]][C++-url]
-[![CUDA][CUDA-shield]][CUDA-url]
-[![Apple][Apple-shield]][Apple-url]
 [![NixOS][NixOS-shield]][NixOS-url]
 [![CMake][CMake-shield]][CMake-url]
 [![GNU Make][GNU-Make-shield]][GNU-Make-url]
@@ -68,8 +66,8 @@ To get a local copy of the project up and running on your machine, follow these 
 1. Clone the project repository
 
    ```sh
-   git clone https://github.com/Kaweees/KiwiCPP.git
-   cd KiwiCPP
+   git clone https://github.com/Kaweees/kiwiLang.git
+   cd kiwiLang
    ```
 
 2. Install the project dependencies
@@ -100,26 +98,22 @@ graphics/
 
 ## License
 
-The source code for my website is distributed under the terms of the GNU General Public License v3.0, as I firmly believe that collaborating on free and open-source software fosters innovations that mutually and equitably beneficial to both collaborators and users alike. See [`LICENSE`](./LICENSE) for details and more information.
+The source code for this project is distributed under the terms of the GNU General Public License v3.0, as I firmly believe that collaborating on free and open-source software fosters innovations that mutually and equitably beneficial to both collaborators and users alike. See [`LICENSE`](./LICENSE) for details and more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/Kaweees/KiwiCPP.svg?style=for-the-badge
-[contributors-url]: https://github.com/Kaweees/KiwiCPP/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Kaweees/KiwiCPP.svg?style=for-the-badge
-[forks-url]: https://github.com/Kaweees/KiwiCPP/network/members
-[stars-shield]: https://img.shields.io/github/stars/Kaweees/KiwiCPP.svg?style=for-the-badge
-[stars-url]: https://github.com/Kaweees/KiwiCPP/stargazers
+[contributors-shield]: https://img.shields.io/github/contributors/Kaweees/kiwiLang.svg?style=for-the-badge
+[contributors-url]: https://github.com/Kaweees/kiwiLang/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Kaweees/kiwiLang.svg?style=for-the-badge
+[forks-url]: https://github.com/Kaweees/kiwiLang/network/members
+[stars-shield]: https://img.shields.io/github/stars/Kaweees/kiwiLang.svg?style=for-the-badge
+[stars-url]: https://github.com/Kaweees/kiwiLang/stargazers
 
 <!-- MARKDOWN SHIELD BAGDES & LINKS -->
 <!-- https://github.com/Ileriayo/markdown-badges -->
 [C++-shield]: https://img.shields.io/badge/C++-%23008080.svg?style=for-the-badge&logo=c%2B%2B&logoColor=004482&labelColor=222222&color=004482
 [C++-url]: https://isocpp.org/
-[CUDA-shield]: https://img.shields.io/badge/cuda-%23008080.svg?style=for-the-badge&logo=nVIDIA&logoColor=76B900&labelColor=222222&color=76B900
-[CUDA-url]: https://developer.nvidia.com/cuda-zone
-[Apple-shield]: https://img.shields.io/badge/metal-%23008080.svg?style=for-the-badge&logo=apple&logoColor=white&labelColor=222222&color=white
-[Apple-url]: https://developer.apple.com/metal/
 [NixOS-shield]: https://img.shields.io/badge/NIX-%23008080.svg?style=for-the-badge&logo=NixOS&logoColor=5277C3&labelColor=222222&color=5277C3
 [NixOS-url]: https://nixos.org/
 [CMake-shield]: https://img.shields.io/badge/CMake-%23008080.svg?style=for-the-badge&logo=cmake&logoColor=008FBA&labelColor=222222&color=008FBA
